@@ -1,0 +1,2 @@
+#faddr(listen) baddr(forward) crypto clientMode secret
+:9001 127.0.0.1:6400 rc4 1 secret
